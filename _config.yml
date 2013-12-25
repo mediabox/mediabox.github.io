@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://aalittle.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: MediaBox Blog
+subtitle: The making of an iPhone app. Behind the scenes.
+author: Andrew Little
 simple_search: http://google.com/search
-description:
+description: MediaBox is a todo list for your movies, books, music and tv.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
