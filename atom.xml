@@ -4,7 +4,7 @@
   <title><![CDATA[MediaBox]]></title>
   <link href="http://aalittle.github.io/atom.xml" rel="self"/>
   <link href="http://aalittle.github.io/"/>
-  <updated>2013-12-26T17:25:37-04:00</updated>
+  <updated>2013-12-26T17:31:39-04:00</updated>
   <id>http://aalittle.github.io/</id>
   <author>
     <name><![CDATA[Andrew Little]]></name>
@@ -13,7 +13,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[The Making of a Modest iPhone App]]></title>
+    <title type="html"><![CDATA[The Making of an iPhone App]]></title>
     <link href="http://aalittle.github.io/blog/2013/12/26/the-making-of-a-modest-iphone-app/"/>
     <updated>2013-12-26T14:49:21-04:00</updated>
     <id>http://aalittle.github.io/blog/2013/12/26/the-making-of-a-modest-iphone-app</id>
