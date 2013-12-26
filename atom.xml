@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[MediaBox Blog]]></title>
+  <title><![CDATA[MediaBox]]></title>
   <link href="http://aalittle.github.io/atom.xml" rel="self"/>
   <link href="http://aalittle.github.io/"/>
-  <updated>2013-12-26T17:20:25-04:00</updated>
+  <updated>2013-12-26T17:25:37-04:00</updated>
   <id>http://aalittle.github.io/</id>
   <author>
     <name><![CDATA[Andrew Little]]></name>
@@ -26,24 +26,22 @@
 <ul>
 <li> Team Size at Start: <strong>5</strong></li>
 <li> Team Size currently: <strong>2</strong></li>
-<li> Alpha Testing group: 6</li>
-<li> Commits on Github: 170</li>
-<li> Month with most Commits: June 2013 (44)</li>
-<li> Project Start Date: March 2013</li>
-<li> Elapsed Time Planning: 2 months</li>
-<li> Elapsed Time Development: 7 months</li>
-<li> Elapsed Time to First Alpha: 3 months</li>
-<li> Lines of Code: 3920</li>
-<li> When we usually code: 8-11PM</li>
-<li> % team with iOS experience: 50%</li>
-<li> Business Model: Free with Affiliate Revenue</li>
-<li> Launch Date: soon!</li>
+<li> Alpha Testing group: <strong>6</strong></li>
+<li> Commits on Github: <strong>170</strong></li>
+<li> Month with most Commits: <strong>June 2013 (44)</strong></li>
+<li> Project Start Date: <strong>March 2013</strong></li>
+<li> Elapsed Time Planning: <strong>2 months</strong></li>
+<li> Elapsed Time Development: <strong>7 months</strong></li>
+<li> Elapsed Time to First Alpha: <strong>3 months</strong></li>
+<li> Lines of Code: <strong>3920</strong></li>
+<li> When we usually code: <strong>8-11PM</strong></li>
+<li> % team with iOS experience: <strong>50%</strong></li>
+<li> Business Model: <strong>Free with Affiliate Revenue</strong></li>
+<li> Launch Date: <strong>soon!</strong></li>
 </ul>
 
 
 <p>Be a part of our iOS app experiment and catch all of our free content as we march toward the launch date of mediabox!</p>
-
-<p>Sign up here&hellip;</p>
 ]]></content>
   </entry>
   
