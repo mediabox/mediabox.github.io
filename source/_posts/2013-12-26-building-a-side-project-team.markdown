@@ -19,6 +19,7 @@ Here, I’ll quickly walk you through our team building and how it all turned ou
    * Absolutely no formal time commitment.
    * Lean towards building something that fun for us, or does some societal good, versus something that is marketable. 
    * Avoid the analysis paralysis that can accompany an attempt to come up with the "next big thing".
+	 * No focus on revenue. If it makes money, so be it, but don't select an idea soley on revenue potential.
    * Something we can build a v1 of fairly quickly, but has potential for additional iterations/features. 
    * Majority rules on product decisions. 
 

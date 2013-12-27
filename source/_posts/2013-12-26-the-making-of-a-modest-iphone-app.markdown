@@ -31,7 +31,7 @@ Here are some project metrics I thought might be interesting. More to come!
    + % team with iOS experience: **50%**
    + Business model: **Affiliate Revenue**
    + Budget to date: **$70**
-   + Launch date: **soon!**
+   + Launch date: **soon**
 
 
 Be a part of our iOS app experiment and catch all of our free content as we march toward the launch date of mediabox!

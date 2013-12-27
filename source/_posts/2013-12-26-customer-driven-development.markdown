@@ -26,4 +26,4 @@ As mentioned in a previous post, MediaBox is an experimental platform for us. We
 
 After the experience with MediaBox, I’m completely sold on the value of customer driven development. The customer can’t always tell you exactly what to build, but they can often tell you what’s wrong with what you have so far. I recommend giving this a try. Talk to your customers, it’s never too late to get started.
 
-Next Week: "Building a Side Project Team"
+Next Week: "Why is MediaBox free?"
