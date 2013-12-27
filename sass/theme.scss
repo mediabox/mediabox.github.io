@@ -63,6 +63,7 @@ nav {
         padding: 40px 2% 30px 2%;
         width: 96%;
         background-color: $lightBlue;
+				text-color: $white;
         @include box-shadow(0, 8px, 10px, rgba(0, 0, 0, 0.4));
     }
 }

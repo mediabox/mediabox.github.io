@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://aalittle.github.io
-title: MediaBox Blog
-subtitle: The making of an iPhone app. Behind the scenes.
+title: MediaBox
+subtitle: Blog from Behind the Scenes.
 author: Andrew Little
 simple_search: http://google.com/search
 description: MediaBox is a todo list for your movies, books, music and tv.
@@ -98,3 +98,11 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# MailChimp
+mailchimp: true
+mailchimp_list_name: MediaBox Launch Notification
+mailchimp_list_why: Sign up. Be the first to know when we launch.
+mailchimp_embed_action: http://mediabox.us3.list-manage.com/subscribe/post?u=63ea7c7cf87ea1538ec1f6a34&amp;id=97dbaeaa53
+
+
