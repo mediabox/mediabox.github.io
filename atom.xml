@@ -4,7 +4,7 @@
   <title><![CDATA[MediaBox]]></title>
   <link href="http://aalittle.github.io/atom.xml" rel="self"/>
   <link href="http://aalittle.github.io/"/>
-  <updated>2013-12-26T20:52:33-04:00</updated>
+  <updated>2013-12-26T23:37:29-04:00</updated>
   <id>http://aalittle.github.io/</id>
   <author>
     <name><![CDATA[Andrew Little]]></name>
@@ -28,24 +28,26 @@
 <p>Here are some project metrics I thought might be interesting. More to come!</p>
 
 <ul>
-<li> Team Size at Start: <strong>5</strong></li>
+<li> Team Size at project start: <strong>5</strong></li>
 <li> Team Size currently: <strong>2</strong></li>
-<li> Alpha Testing group: <strong>6</strong></li>
+<li> Alpha testing group: <strong>6</strong></li>
 <li> Commits on Github: <strong>170</strong></li>
-<li> Month with most Commits: <strong>June 2013 (44)</strong></li>
-<li> Project Start Date: <strong>March 2013</strong></li>
-<li> Elapsed Time Planning: <strong>2 months</strong></li>
-<li> Elapsed Time Development: <strong>7 months</strong></li>
-<li> Elapsed Time to First Alpha: <strong>3 months</strong></li>
-<li> Lines of Code: <strong>3920</strong></li>
+<li> Month with most commits: <strong>June 2013 (44)</strong></li>
+<li> Project start date: <strong>March 2013</strong></li>
+<li> Elapsed time planning: <strong>2 months</strong></li>
+<li> Elapsed time development: <strong>7 months</strong></li>
+<li> Elapsed time to first alpha: <strong>5 months</strong></li>
+<li> Lines of code: <strong>3920</strong></li>
 <li> When we usually code: <strong>8-11PM</strong></li>
 <li> % team with iOS experience: <strong>50%</strong></li>
-<li> Business Model: <strong>Free with Affiliate Revenue</strong></li>
-<li> Launch Date: <strong>soon!</strong></li>
+<li> Business model: <strong>Affiliate Revenue</strong></li>
+<li> Launch date: <strong>soon!</strong></li>
 </ul>
 
 
 <p>Be a part of our iOS app experiment and catch all of our free content as we march toward the launch date of mediabox!</p>
+
+<p>Next Week: &ldquo;Building a Side Project Team&rdquo;</p>
 ]]></content>
   </entry>
   
