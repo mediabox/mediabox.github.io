@@ -13,3 +13,10 @@ vendor
 node_modules
 
 /.preview-mode
+
+/source/stylesheets/typography.css
+/source/stylesheets/theme.css
+/source/stylesheets/styles.css
+/source/stylesheets/structure.css
+/source/stylesheets/sidr.css
+/source/stylesheets/code.css

@@ -7,7 +7,7 @@ author: Andrew Little
 categories: 
 ---
 
-So with a [million apps in the App Store](http://www.theverge.com/2013/10/22/4866302/apple-announces-1-million-apps-in-the-app-store), it’s clear that a lot of people out there who already know how to build an iPhone app. However, for those who love an inside look or those of you who have an idea and aren’t sure where to start, this series of posts may be just what you’re looking for.
+YO So with a [million apps in the App Store](http://www.theverge.com/2013/10/22/4866302/apple-announces-1-million-apps-in-the-app-store), it’s clear that a lot of people out there who already know how to build an iPhone app. However, for those who love an inside look or those of you who have an idea and aren’t sure where to start, this series of posts may be just what you’re looking for.
 
 In this post, and several more, we’ll cover many aspects of creating and launching an app for iOS. We’ll leave coding details to the reader, but we’ll cover the interesting macro bits like team building, idea creation, product definition, and marketing. On the MediaBox team, we’re learning as we go and want to share **all** of it with you. MediaBox is an experiment in team building, product simplification, and customer-driven development.
 
