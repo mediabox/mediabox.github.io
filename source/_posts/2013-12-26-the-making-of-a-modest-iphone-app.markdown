@@ -7,18 +7,20 @@ author: Andrew Little
 categories: 
 ---
 
-YO So with a [million apps in the App Store](http://www.theverge.com/2013/10/22/4866302/apple-announces-1-million-apps-in-the-app-store), it’s clear that a lot of people out there who already know how to build an iPhone app. However, for those who love an inside look or those of you who have an idea and aren’t sure where to start, this series of posts may be just what you’re looking for.
+So with a [million apps in the App Store](http://www.theverge.com/2013/10/22/4866302/apple-announces-1-million-apps-in-the-app-store), it’s clear that a lot of people out there who already know how to build an iPhone app. However, if you enjoy an inside look at product creation or you have an app idea and aren’t sure where to start, then this series of posts may be interesting for you.
 
-In this post, and several more, we’ll cover many aspects of creating and launching an app for iOS. We’ll leave coding details to the reader, but we’ll cover the interesting macro bits like team building, idea creation, product definition, and marketing. On the MediaBox team, we’re learning as we go and want to share **all** of it with you. MediaBox is an experiment in team building, product simplification, and customer-driven development.
+{% pullquote %}
+In this post, and several more, we’ll cover many aspects of creating and launching an app for iOS. We’ll leave coding details to the reader, but we’ll cover the interesting macro bits like team building, idea creation, product definition, and marketing. On the MediaBox team, {" we’re learning as we go and want to share all of it with you "}. MediaBox is an experiment in team building, product simplification, and customer-driven development.
+{% endpullquote %}
 
-An early design concept that we created using [Balsamiq](http://balsamiq.com/). See the rest of the design concept [here](https://projects.invisionapp.com/share/HAEGQ7UT#/screens/6997123?maintainScrollPosition=false). When we launch, you'll see how far we deviated from these early concepts. However, they served well as an early guideline and a few of the ideas did stand the test of time.
+Below, is an early design concept that we created using a great wireframing tool called [Balsamiq](http://balsamiq.com/). See the rest of the #verybasic design concept [here](https://projects.invisionapp.com/share/HAEGQ7UT#/screens/6997123?maintainScrollPosition=false). When we launch, you'll see how far we deviated from these early concepts. Despite straying from the original sketches, they served as an important guideline and a few of the ideas did stand the test of time.
 
-{% img /images/initialconcept.png 200 325 Initial MediaBox Design Concept %}
+{% img center /images/initialconcept.png 200 325 Initial MediaBox Design Concept %}
 
 Here are some project metrics I thought might be interesting. More to come!
 
-   + Team Size at project start: **5**
-   + Team Size currently: **2**
+   + Team members at project start: **5**
+   + Team members currently: **2**
    + Alpha testing group: **6**
    + Commits on Github: **170**
    + Month with most commits: **June 2013 (44)**
