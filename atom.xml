@@ -4,7 +4,7 @@
   <title><![CDATA[MediaBox]]></title>
   <link href="http://mediabox.github.io/atom.xml" rel="self"/>
   <link href="http://mediabox.github.io/"/>
-  <updated>2013-12-28T14:08:25-04:00</updated>
+  <updated>2013-12-30T11:43:59-04:00</updated>
   <id>http://mediabox.github.io/</id>
   <author>
     <name><![CDATA[Andrew Little]]></name>
@@ -17,19 +17,21 @@
     <link href="http://mediabox.github.io/blog/2013/12/26/the-making-of-a-modest-iphone-app/"/>
     <updated>2013-12-26T14:49:21-04:00</updated>
     <id>http://mediabox.github.io/blog/2013/12/26/the-making-of-a-modest-iphone-app</id>
-    <content type="html"><![CDATA[<p>So with a <a href="http://www.theverge.com/2013/10/22/4866302/apple-announces-1-million-apps-in-the-app-store">million apps in the App Store</a>, it’s clear that a lot of people out there who already know how to build an iPhone app. However, for those who love an inside look or those of you who have an idea and aren’t sure where to start, this series of posts may be just what you’re looking for.</p>
+    <content type="html"><![CDATA[<p>So with a <a href="http://www.theverge.com/2013/10/22/4866302/apple-announces-1-million-apps-in-the-app-store">million apps in the App Store</a>, it’s clear that a lot of people out there who already know how to build an iPhone app. However, if you enjoy an inside look at product creation or you have an app idea and aren’t sure where to start, then this series of posts may be interesting for you.</p>
 
-<p>In this post, and several more, we’ll cover many aspects of creating and launching an app for iOS. We’ll leave coding details to the reader, but we’ll cover the interesting macro bits like team building, idea creation, product definition, and marketing. On the MediaBox team, we’re learning as we go and want to share <strong>all</strong> of it with you. MediaBox is an experiment in team building, product simplification, and customer-driven development.</p>
+<p><span class='pullquote-right' data-pullquote='we’re learning as we go and want to share all of it with you'>
+In this post, and several more, we’ll cover many aspects of creating and launching an app for iOS. We’ll leave coding details to the reader, but we’ll cover the interesting macro bits like team building, idea creation, product definition, and marketing. On the MediaBox team, we’re learning as we go and want to share all of it with you. MediaBox is an experiment in team building, product simplification, and customer-driven development.
+</span></p>
 
-<p>An early design concept that we created using <a href="http://balsamiq.com/">Balsamiq</a>. See the rest of the design concept <a href="https://projects.invisionapp.com/share/HAEGQ7UT#/screens/6997123?maintainScrollPosition=false">here</a>. When we launch, you&rsquo;ll see how far we deviated from these early concepts. However, they served well as an early guideline and a few of the ideas did stand the test of time.</p>
+<p>Below, is an early design concept that we created using a great wireframing tool called <a href="http://balsamiq.com/">Balsamiq</a>. See the rest of the #verybasic design concept <a href="https://projects.invisionapp.com/share/HAEGQ7UT#/screens/6997123?maintainScrollPosition=false">here</a>. When we launch, you&rsquo;ll see how far we deviated from these early concepts. Despite straying from the original sketches, they served as an important guideline and a few of the ideas did stand the test of time.</p>
 
-<p><img src="http://mediabox.github.io/images/initialconcept.png" width="200" height="325" title="Initial MediaBox Design Concept" ></p>
+<p><img class="center" src="http://mediabox.github.io/images/initialconcept.png" width="200" height="325" title="Initial MediaBox Design Concept" ></p>
 
 <p>Here are some project metrics I thought might be interesting. More to come!</p>
 
 <ul>
-<li> Team Size at project start: <strong>5</strong></li>
-<li> Team Size currently: <strong>2</strong></li>
+<li> Team members at project start: <strong>5</strong></li>
+<li> Team members currently: <strong>2</strong></li>
 <li> Alpha testing group: <strong>6</strong></li>
 <li> Commits on Github: <strong>170</strong></li>
 <li> Month with most commits: <strong>June 2013 (44)</strong></li>
