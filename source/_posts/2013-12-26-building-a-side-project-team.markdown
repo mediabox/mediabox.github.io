@@ -11,7 +11,7 @@ published: false
 
 The toughest thing about a side project is finding the time to give it the attention your future customers deserve. That’s tough enough when it’s just you, but when forming a team, the time constraint issue is amplified. How will we find time to meet? What if certain people can contribute more time than others? In the end, none of this really matters if the goals of the project are made clear at the outset.
 
-Here, I’ll quickly walk you through our team building and how it all turned out as we near build completion on MediaBox.
+Here, I’ll quickly walk you through our team building and how it all turned out as we near build completion on [MediaBox](http://mediaboxapp.ca).
 
 **Before we Started**. Here are the ground rules that we set in the initial email that went out to prospective team members:
 
@@ -31,6 +31,6 @@ Here, I’ll quickly walk you through our team building and how it all turned ou
 
 **Initial Steps**. After assembling the team, the first thing we did was select a product idea. We’ll talk about product selection in a future post, but essentially we selected something we knew we could build successfully and something we felt would at least be useful to **us** - this meant we’d have at least 5 customers! After selecting the product idea, we completed a document that defined our product. What's really cool is that this document still describes our product accurately some 7 months later.
 
-**So How did it all work out?** As we round out development on MediaBox, 7 months have passed. We find ourselves down to two active team members. Although it would have been great to have everyone along for the ride, it just wasn't possible for everyone to commit enough time to feel that they’re helping the effort. Despite our app’s simple scope, there is still a lot of work that goes into a shipping product: design, customer testing, communication, development, testing, marketing, landing site construction. It’s tough work, and not easy to balance against a career and personal life. Though the team has slimmed over time, we do still feel great that our original product definition document still defines the product we'll soon be shipping. 
+**So How did it all work out?** As we round out development on [MediaBox](http://mediaboxapp.ca), 7 months have passed. We find ourselves down to two active team members. Although it would have been great to have everyone along for the ride, it just wasn't possible for everyone to commit enough time to feel that they’re helping the effort. Despite our app’s simple scope, there is still a lot of work that goes into a shipping product: design, customer testing, communication, development, testing, marketing, landing site construction. It’s tough work, and not easy to balance against a career and personal life. Though the team has slimmed over time, we do still feel great that our original product definition document still defines the product we'll soon be shipping. 
 
-Next Week: "Customer-Driven Development"
+Next Tuesday: "Customer-Driven Development"
