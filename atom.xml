@@ -4,7 +4,7 @@
   <title><![CDATA[MediaBox]]></title>
   <link href="http://mediabox.github.io/atom.xml" rel="self"/>
   <link href="http://mediabox.github.io/"/>
-  <updated>2014-01-28T08:19:44-04:00</updated>
+  <updated>2014-01-28T08:22:19-04:00</updated>
   <id>http://mediabox.github.io/</id>
   <author>
     <name><![CDATA[Andrew Little]]></name>
@@ -19,7 +19,7 @@
     <id>http://mediabox.github.io/blog/2014/01/28/why-is-mediabox-free</id>
     <content type="html"><![CDATA[<p>Free. In-app. Ad-supported. Paid install. So many business models, but which one to choose?</p>
 
-<p>As we mentioned in a <a href="#">previous post</a>, our #1 goal wasn&rsquo;t about making money. I suppose we’d be silly to turn down an opportunity, but we didn’t want to have our product idea selection driven completely by dollar signs. This wasn’t out of some keen interest in copying Valley startups (i.e. no revenue can be good for early valuations), we just didn’t think our first project was the right place to start mounting pressure on the team.</p>
+<p>As we mentioned in a <a href="http://mediabox.github.io/blog/2014/01/15/building-a-side-project-team/">previous post</a>, our #1 goal wasn&rsquo;t about making money. I suppose we’d be silly to turn down an opportunity, but we didn’t want to have our product idea selection driven completely by dollar signs. This wasn’t out of some keen interest in copying Valley startups (i.e. no revenue can be good for early valuations), we just didn’t think our first project was the right place to start mounting pressure on the team.</p>
 
 <p><strong>Choose the model early</strong>. It was helpful that we knew we wanted to go free early in the product design process. You&rsquo;ll want to define your business model early in the product lifecycle, as the model you choose will influence the way you design and build the product. For example, a freemium app needs to be designed such that both the free and paid user have a rich experience with the application.</p>
 
@@ -44,7 +44,7 @@
     <link href="http://mediabox.github.io/blog/2014/01/21/customer-driven-development/"/>
     <updated>2014-01-21T09:00:40-04:00</updated>
     <id>http://mediabox.github.io/blog/2014/01/21/customer-driven-development</id>
-    <content type="html"><![CDATA[<p>As mentioned in a <a href="#">previous post</a>, MediaBox is an experimentation platform for us. We use it to gain experience in areas of product design in which we haven&rsquo;t previously dabbled. One such area, is Customer Driven Development (CDD). To us, CDD means that we work closely with prospective customers of the product and collaborate toward a more finely tuned solution. They drive the vision of what we build.</p>
+    <content type="html"><![CDATA[<p>As mentioned in a <a href="http://mediabox.github.io/blog/2014/01/15/building-a-side-project-team/">previous post</a>, MediaBox is an experimentation platform for us. We use it to gain experience in areas of product design in which we haven&rsquo;t previously dabbled. One such area, is Customer Driven Development (CDD). To us, CDD means that we work closely with prospective customers of the product and collaborate toward a more finely tuned solution. They drive the vision of what we build.</p>
 
 <p><strong>It works!</strong> Turns out this approach was quite successful for a number of reasons.</p>
 
